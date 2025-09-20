@@ -6,13 +6,12 @@ classes: "wide"
 
 ## Teaching Courses
 
-- <a href="https://programmes.uqac.ca/8INF874">Cryptography</a> <span style="float:right;"> *Summer 2024* </span>
-- <a href="https://programmes.uqac.ca/8CLD202">Cloud Computing</a> <span style="float:right;"> *Fall 2023* </span>
-- <a href="https://programmes.uqac.ca/8INF876">Cloud System Design/Architecture</a> <span style="float:right;"> *Fall 2023* </span>
-- <a href="https://programmes.uqac.ca/8INF876">Cloud System Design/Architecture</a> <span style="float:right;"> *Fall 2022* </span>
-- <a href="https://programmes.uqac.ca/8INF854">Cryptography</a> <span style="float:right;"> *Summer 2022* </span>
+- <a href="">Software Engineering</a> <span style="float:right;"> *Fall 2025* </span>
+- <a href="">Integrated Computing Systems</a> <span style="float:right;"> *Winter 2024/Fall 2024* </span>
 
 ## Teaching Assistant
 
-- <a href="https://programmes.uqac.ca/8INF406">Computer Science and Industry 4.0</a> <span style="float:right;"> *Summer 2023* </span>
-- <a href="https://programmes.uqac.ca/8INF345">Advanced Web Technologies</a> <span style="float:right;"> *Winter 2022* </span>
+- <a href="">Game Design</a> <span style="float:right;"> *Winter 2023* </span>
+- <a href="">Human Computer Interaction</a> <span style="float:right;"> *Fall 2023* </span>
+- <a href="">Design and Analysis of Algorithm</a> <span style="float:right;"> *Winter 2023* </span>
+- <a href="">Software Engineering</a> <span style="float:right;"> *Winter 2022* </span>
