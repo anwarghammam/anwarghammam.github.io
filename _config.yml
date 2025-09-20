@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Anwar Ghammam
+email: aghammam@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+twitter_username: anwarghammam
+github_username: anwarghammam
 search: true
 
 # Build settings
@@ -58,34 +57,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Anwar Ghammam"
+  avatar : "/assets/images/bio-photo.jpeg"
+  bio    : "Assistant Professor at The university of Michigan-Dearborn"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/anwarghammam?lang=en"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=J4NPGMkAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/anwarghammam"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/anwarghammam/"
 
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=J4NPGMkAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/anwarghammam?lang=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/anwarghammam"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/anwarghammam/"
 
 defaults:
   # _posts
