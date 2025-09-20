@@ -24,21 +24,7 @@ For more details about my research, please check my [publication list](publicati
 
 ## Members
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center;">
-    <img src="/assets/images/student1.jpg" alt="Student 1" style="width:100px;height:100px;border-radius:50%;">
-    <h3>Student Name 1</h3>
-    <p>PhD Student</p>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center;">
-    <img src="/assets/images/student2.jpg" alt="Student 2" style="width:100px;height:100px;border-radius:50%;">
-    <h3>Student Name 2</h3>
-    <p>Master’s Student</p>
-  </div>
-
-</div>
+Check Neos LAB members [publication list](members.md)
 
 
 
