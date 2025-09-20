@@ -92,8 +92,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: _pages
+      path: "/home/"
+      type: _posts
     values:
       layout: single
       author_profile: true
