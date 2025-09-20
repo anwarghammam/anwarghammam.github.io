@@ -19,17 +19,16 @@ function toggleText(textIdToShow, textIdToHide) {
   textToHide.style.display = "none";
 }
 </script>
-## Journal papers
-### 2024
-- **Advancing Serverless ML Training Architectures via Comparative Approach (under review)**
+
+### 2025
+- **Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**
    <div>
 	<font size="3"> 
 	<i class="fa-solid fa-people-line"></i>
-	Amine Barrak, Fabio Petrillo, Fehmi Jaafar. <br>
-	<i class="fa-solid fa-location-dot"></i>  Journal of Cloud Computing, Advances, Systems and Applications. <br>
+	Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan, Marouane Kessentini <br>
 	</font>
 	    <i class="fa-solid fa-book"></i>
-   <a class="btn btn--info btn--small" target="_blank" href="https://aminebarrak.github.io/assets/pdfs/IEEE_Journal_TPDS_Preprint.pdf">Pre-print</a>
+   <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
    </div>
 
 ### 2022
@@ -47,36 +46,24 @@ function toggleText(textIdToShow, textIdToHide) {
       <i class="fa-solid fa-quote-left"></i>  <button class="btn btn--success btn--small" onclick="toggleText('citation-2022-2', 'abstract-2022-2')">Citation</button>
       <i class="fa-solid fa-paperclip"></i>  <button class="btn btn--success btn--small" onclick="toggleText('abstract-2022-2', 'citation-2022-2')">Abstract</button>
       <div class="alert alert-success" role="alert" id="citation-2022-2" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
-@article{DBLP:journals/access/BarrakPJ22,
+@inproceedings{ghammam2025build,
 <br>
-author       = {Amine Barrak and
-                  F{\'{a}}bio Petrillo and
-                  Fehmi Jaafar},
-<br>
-title        = {Serverless on Machine Learning: \'{A} Systematic Mapping Study},
-<br>
-journal      = {\'{IEEE} Access},
-<br>
-volume       = {10},
-<br>
-pages        = {99337--99352},
-<br>
-year         = {2022},
-<br>
-url          = {https://doi.org/10.1109/ACCESS.2022.3206366},
-<br>
-doi          = {10.1109/ACCESS.2022.3206366},
-<br>
-timestamp    = {Tue, 18 Oct 2022 22:17:11 +0200},
-<br>
-biburl       = {https://dblp.org/rec/journals/access/BarrakPJ22.bib},
-<br>
-bibsource    = {dblp computer science bibliography, https://dblp.org}
-<br>
+  title={Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems},
+  <br>
+  author={Ghammam, Anwar and Rzig, Dhia Elhaq and Almukhtar, Mohamed and Khalsi, Rania and Hassan, Foyzul and Kessentini, Marouane},
+  <br>
+  booktitle={2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)},
+  <br>
+  pages={616--628},
+  <br>
+  year={2025},
+  <br>
+  organization={IEEE}
+  <br>
 }
       </div>
       <div class="alert alert-success" role="alert" id="abstract-2022-2" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
-Machine Learning Operations (MLOps) is an approach to managing the entire lifecycle of a machine learning model. It has evolved over the last years and has started attracting many people in research and businesses in the industry. It supports the development of machine learning (ML) pipelines typical in the phases of data collection, data pre-processing, building datasets, model training, hyper-parameters refinement, testing, and deployment to production. This complex pipeline workflow is a tedious process of iterative experimentation. Moreover, cloud computing services provide advanced features for managing ML stages and deploying them efficiently to production. Specifically, serverless computing has been applied in different stages of the machine learning pipeline. However, to the best of our knowledge, it is missing to know the serverless suitability and benefits it can provide to the ML pipeline. In this paper, we provide a systematic mapping study of machine learning systems applied on serverless architecture that include 53 relevant studies. During this study, we focused on (1) exploring the evolution trend and the main venues; (2) determining the researchers’ focus and interest in using serverless on machine learning; (3) discussing solutions that serverless computing provides to machine learning. Our results show that serverless usage is growing, and several venues are interested in the topic. In addition, we found that the most widely used serverless provider is AWS Lambda, where the primary application was used in the deployment of the ML model. Additionally, several challenges were explored, such as reducing cost, resource scalability, and reducing latency. We also discuss the potential challenges of adopting ML on serverless, such as respecting service level agreement, the cold start problem, security, and privacy. Finally, our contribution provides foundations for future research and applications that involve machine learning in serverless computing.
+In modern software engineering, build systems play the crucial role of facilitating the conversion of source code into software artifacts. Recent research has explored high-level causes of build failures, but has largely overlooked the structural properties of build files. Akin to source code, build systems face technical debt challenges that hinder maintenance and optimization. While refactoring is often seen as a key tool for addressing technical debt in source code, there is a significant research gap regarding the specific refactoring changes developers apply to build code and whether these refactorings effectively address technical debt.In this paper, we address this gap by examining refactorings applied to build scripts in open-source projects, covering the widely used build systems of Gradle, Ant, and Maven. Additionally, we investigate whether these refactorings are used to tackle technical debts in build systems. Our analysis was conducted on 725 examined build-file-related commits. We identified 24 build-related refactorings, which we divided into 6 main categories. These refactorings are organized into the first empirically derived taxonomy of build system refactorings. Furthermore, we investigate how developers employ these refactoring types to address technical debts via a manual commitanalysis and a developer survey. In this context, we identified 5 technical debts addressed by these refactorings and discussed their correlation with the different refactorings. Finally, we introduce BuildRefMiner, an LLM-powered tool leveraging GPT40 to automate the detection of refactorings within build systems. We evaluated its performance and found that it achieves an F1 score of 0.76 across all build systems.This study will serve as a foundational building block for guiding future research and practice in the maintenance and optimization of build systems. BuildRefMiner and the replication package for this study are available at [1]
       </div>
    </div>
 
