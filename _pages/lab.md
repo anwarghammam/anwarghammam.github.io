@@ -10,8 +10,6 @@ header:
 
 I founded and lead the NeoSE Lab. The name ‘Neo’ comes from the Greek néos, meaning new, modern, and innovative. It reflects the vision of our lab: pioneering the next generation of Software Engineering by creating intelligent and adaptive approaches for building and evolving software systems.” lab focuses on integrating Artificial Intelligence, and software evolution research with core software engineering practices. Our work advances the future of intelligent software, addressing key challenges in software quality, maintenance, and evolution.
 
-![NeoSE Lab Photo](/assets/images/lab-logo.png){: style="max-width: 100%; height: auto; margin: 20px 0;" }
-
 ## Research Interests
 
 - **Artificial Intelligence for Software Engineering (AI4SE)**
