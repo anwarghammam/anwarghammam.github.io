@@ -8,21 +8,18 @@ title: "Awards & Grants"
 
 
 
----
 
 ### Selected to attend the National NSF I-Corps training program as an Entrepreneurial Lead  <span style="float:right;">*2024* </span>   
-- **Event:** NSF I-Corps Program.
+- Event: NSF I-Corps Program.
 ---
 
 ### Best Research Quality/Presentation Award  <span style="float:right;">*2018*</span>  
-- **Event:** CSE OU Graduate Research Competition, Oakland University
+- Event: CSE OU Graduate Research Competition, Oakland University
 ---
 
----
 
 ###  Most Industry-Ready Research Award (among projects presented by CU Boulder, Oregon State University, and Oakland University)  <span style="float:right;">*2022*</span>  
-- **Event:** Industry-University Center on Pervasive AI Event
----
+- Event: Industry-University Center on Pervasive AI Event
 
 ---
 
