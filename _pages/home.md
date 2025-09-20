@@ -39,3 +39,20 @@ For details about my research, please check my [publication list](publications.m
 For details about my research Lab, please check my [About my Lab](lab.md).
 
 **I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me at **aghammam@umich.edu**.
+
+
+
+### Academic Background
+
+<i class="fa fa-graduation-cap"></i> **PhD in Computer Science (2021 - 2025)**  
+**Oakland University, Michigan, USA**  
+*Thesis:* "Optimized Training and Enhanced Resilience in Distributed ML: A Serverless Peer-to-Peer Architectural Approach"  
+*Research Area:* AI4SE
+*Current GPA:* 4.0/4.0  
+*Awards:* Tuition Fee Exemption Scholarship
+
+<i class="fa fa-graduation-cap"></i> **MSc in Computer Science (2021 - 2023)**  
+**Oakland University, Michigan, USA**   
+*Research Area:* Software Optimization
+*GPA:* 4.0/4.0  
+*Awards:* Tuition Fee Exemption Scholarship
