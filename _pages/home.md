@@ -32,9 +32,8 @@ I am Anwar Ghammam, I am an assistant professor at [University of Michigan-Dearb
 
 For details about my research, please check my [publication list](publications.md).
 
-For details about my research Lab, please check [About my Lab](lab.md).
+For details about my research Lab, please check [NeoSE Lab](lab.md).
 
-**I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me at **aghammam@umich.edu**.
 
 ### Academic Background
 
@@ -50,3 +49,7 @@ For details about my research Lab, please check [About my Lab](lab.md).
 *Research Area:* Software Optimization  
 *GPA:* 4.0/4.0  
 *Awards:* Tuition Fee Exemption Scholarship  
+
+
+<i class="fa fa-graduation-cap"></i> **Bachelor in Software Engineering (2016 - 2021)**  
+**INSAT, Tunis, Tunisia**   
