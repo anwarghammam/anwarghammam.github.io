@@ -39,7 +39,7 @@ For details about my research Lab, please check [NeoSE Lab](lab.md).
 
 <i class="fa fa-graduation-cap"></i> **PhD in Computer Science (2021 - 2025)**  
 **Oakland University, Michigan, USA**  
-*Thesis:* "Optimized Training and Enhanced Resilience in Distributed ML: A Serverless Peer-to-Peer Architectural Approach"  
+*Thesis:* "From Core To Apex: Towards Multi-aspect Optimization of Software Systems"  
 *Research Area:* AI4SE  
 *Current GPA:* 4.0/4.0  
 *Awards:* Tuition Fee Exemption Scholarship  
