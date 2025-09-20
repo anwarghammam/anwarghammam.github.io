@@ -1,5 +1,6 @@
 ---
 permalink: /home/
+author_profile: true
 title: "Welcome to my academic space!"
 #classes: "wide"
 ---
