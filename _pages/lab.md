@@ -22,12 +22,23 @@ For more details about my research, please check my [publication list](publicati
 
 **I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me at **aghammam@umich.edu**.
 
-## Latest News
+## Members
 
-December 2024: Accepted Demo Paper and Poster at ICSOC 2024.
-August 2024: I got the position of assiatnt professor at Oakland University.
-Jun 2024: Accepted paper intitled: “Securing AWS Lambda: Advanced Strategies and Best Practices”, CSCLOUD 2024 (Acceptance Rate: 24.66%)
-May 2024: The poster for the PhD Forum at IPDPS 2024 is ready to be shared link
-May 2024: Teaching the Cryptography course for two groups of students totaling 54 students. Course details.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center;">
+    <img src="/assets/images/student1.jpg" alt="Student 1" style="width:100px;height:100px;border-radius:50%;">
+    <h3>Student Name 1</h3>
+    <p>PhD Student</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center;">
+    <img src="/assets/images/student2.jpg" alt="Student 2" style="width:100px;height:100px;border-radius:50%;">
+    <h3>Student Name 2</h3>
+    <p>Master’s Student</p>
+  </div>
+
+</div>
+
 
 
