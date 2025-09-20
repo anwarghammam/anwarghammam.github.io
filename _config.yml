@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Anwar Ghammam"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Assistant Professor at The university of Michigan-Dearborn"
+  bio    : "Assistant Professor at the university of Michigan-Dearborn"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

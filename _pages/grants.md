@@ -8,17 +8,23 @@ title: "Awards & Grants"
 
 
 
-### Tuition Fee Exemption Scholarship  <span style="float:right;">*2021 - 2024*</span>  
-- **Degree:** Ph.D. in Information Science and Technology  
-- **Institution:** University of Québec  
+---
+
+### Selected to attend the National NSF I-Corps training program as an Entrepreneurial Lead  <span style="float:right;">*2024* </span>   
+- **Event:** NSF I-Corps Program.
+---
+
+### Best Research Quality/Presentation Award  <span style="float:right;">*2018*</span>  
+- **Event:** CSE OU Graduate Research Competition, Oakland University
+---
 
 ---
 
-### Tunisia National Excellence Scholarship  <span style="float:right;">*2016-2020* </span>   
-- **Degree:** Master Research  
-- **Institution:** Polytechnique Montreal  
+###  Most Industry-Ready Research Award (among projects presented by CU Boulder, Oregon State University, and Oakland University)  <span style="float:right;">*2022*</span>  
+- **Event:** Industry-University Center on Pervasive AI Event
+---
 
 ---
 
-### Best Paper Award  <span style="float:right;">*2018*</span>  
-- **Event:** 28th International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+###  Recipient of NSF Student Intern Scholarship <span style="float:right;">*2022*</span>  
+---
