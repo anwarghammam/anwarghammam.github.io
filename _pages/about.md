@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: " **Ne**xt-Gen **o**f **S**oftware **E**ngineering Lab (NeoSE)"
+permalink: /about/
+title: "**Ne**xt-Gen **o**f **S**oftware **E**ngineering Lab (NeoSE)"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 Hi, I am Dr.Anwar Ghammam, welcome to my academic space!
