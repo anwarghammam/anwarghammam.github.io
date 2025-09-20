@@ -1,8 +1,8 @@
 ---
 permalink: /home/
-title: "Welcome to my academic space!"
-layout: single
 author_profile: true
+title: "Welcome to my academic space!"
+#classes: "wide"
 ---
 
 <script>
