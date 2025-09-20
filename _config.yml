@@ -93,7 +93,7 @@ defaults:
   # _posts
   - scope:
       path: "/home/"
-      type: _pages
+      type: _posts
     values:
       layout: single
       author_profile: true
