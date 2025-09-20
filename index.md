@@ -1,5 +1,4 @@
 ---
-permalink: /home/
 layout: single
 author_profile: true
 title: "Welcome to my academic space!"

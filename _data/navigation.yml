@@ -11,5 +11,7 @@ main:
     url: /teaching/
   - title: "Grants"
     url: /grants/
+  - title: "News"
+    url: /news/
   - title: "CV"
     url: /CV/
