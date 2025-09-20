@@ -1,6 +1,6 @@
 ---
-permalink: /home/
-title: "Anwar Ghammam"
+permalink: /
+title: "Welcome to my academic space!"
 #classes: "wide"
 ---
 <script>
@@ -20,7 +20,6 @@ function toggleText(textIdToShow, textIdToHide) {
 }
 </script>
 <br>
-**welcome to my academic space!**
 I am Anwar Ghammam, I am an assistant professor at University of [Michigan-Dearborn](https://umdearborn.edu/), United States, working at the Department of Computer Science and Information. My research focuses on adapting **Artificial Intelligence** in  **Software Engineering** especially sofwatre evoluton, software quality and software maintenance.
 
 ## Research Interests
