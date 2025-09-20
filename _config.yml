@@ -92,7 +92,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "/home/"
+      path: ""
       type: posts
     values:
       layout: single

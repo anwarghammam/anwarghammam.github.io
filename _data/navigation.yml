@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /index/
   - title: "NeoSE Lab"
     url: /lab/
   - title: "Publications"
