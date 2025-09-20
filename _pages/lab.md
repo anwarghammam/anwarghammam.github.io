@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /lab/
 title: "**Ne**xt-Gen **o**f **S**oftware **E**ngineering Lab (NeoSE)"
 author_profile: true
 
@@ -29,4 +29,5 @@ August 2024: I got the position of assiatnt professor at Oakland University.
 Jun 2024: Accepted paper intitled: “Securing AWS Lambda: Advanced Strategies and Best Practices”, CSCLOUD 2024 (Acceptance Rate: 24.66%)
 May 2024: The poster for the PhD Forum at IPDPS 2024 is ready to be shared link
 May 2024: Teaching the Cryptography course for two groups of students totaling 54 students. Course details.
+
 

@@ -1,15 +1,13 @@
 main:
+  - title: "Our Lab"
+    url: /lab/
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
-    url: /projects/
   - title: "Service"
     url: /service/
   - title: "Teaching"
     url: /teaching/
   - title: "Grants"
     url: /grants/
-  - title: "Our Lab"
-    url: /about/
   - title: "CV"
     url: /CV/
