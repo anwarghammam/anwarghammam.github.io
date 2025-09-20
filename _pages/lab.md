@@ -22,9 +22,9 @@ For more details about my research, please check my [publication list](publicati
 
 **I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me at **aghammam@umich.edu**.
 
-## Members
+## Current Members
 
-Check Neos LAB members [publication list](members.md)
+Check NeoSE LAB members [Members list](members.md)
 
 
 
