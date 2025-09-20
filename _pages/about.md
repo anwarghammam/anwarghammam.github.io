@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: " **Ne**xt-Gen **o**f **S**oftware **E**ngineering Lab (NeoSE)"
 author_profile: true
 redirect_from: 
