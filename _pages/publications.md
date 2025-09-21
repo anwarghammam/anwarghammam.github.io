@@ -684,24 +684,4 @@ Internet of Things (IoT) is widely present nowadays, from businesses to connecte
 
 
 
-<script>
-function slideToggle(elementIdToShow, elementIdToHide) {
-  const showEl = document.getElementById(elementIdToShow);
-  const hideEl = document.getElementById(elementIdToHide);
 
-  // Hide the other box immediately
-  hideEl.style.maxHeight = null;
-  hideEl.style.overflow = "hidden";
-
-  if (showEl.style.maxHeight) {
-    // Already open → close it
-    showEl.style.maxHeight = null;
-    showEl.style.overflow = "hidden";
-  } else {
-    // Open smoothly
-    showEl.style.display = "block";
-    showEl.style.overflow = "hidden";
-    showEl.style.maxHeight = showEl.scrollHeight + "px";
-  }
-}
-</script>
