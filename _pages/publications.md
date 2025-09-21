@@ -31,14 +31,12 @@ function toggleText(textIdToShow, textIdToHide) {
   <i class="fa-solid fa-book"></i>
   <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
 
-
-
 <i class="fa-solid fa-quote-left"></i>  
 <button class="btn btn--success btn--small" onclick="toggleText('citation-2022-2', 'abstract-2022-2')">Citation</button>
 
 <i class="fa-solid fa-paperclip"></i>  
 <button class="btn btn--success btn--small" onclick="toggleText('abstract-2022-2', 'citation-2022-2')">Abstract</button>
-
+</div>
 <div class="alert alert-success" role="alert" id="citation-2022-2" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
 @inproceedings{ghammam2025build,
 <br>
@@ -55,7 +53,6 @@ function toggleText(textIdToShow, textIdToHide) {
   organization={IEEE}
   <br>
 }
-</div>
 </div>
 
 <div class="alert alert-success" role="alert" id="abstract-2022-2" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
