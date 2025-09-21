@@ -22,28 +22,28 @@ function toggleText(textIdToShow, textIdToHide) {
 
 ### 2025
 - **Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**
-  <div style="margin-top:5px;">
 
-    <span style="font-size:14px;">
-      <i class="fa-solid fa-people-line"></i>
-      Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan, Marouane Kessentini
-      <br>
-      <i class="fa-solid fa-location-dot"></i> Mining Software Engineering (MSR 2025)
-    </span>
+<div style="margin-top:5px;">
+  <span style="font-size:14px;">
+    <i class="fa-solid fa-people-line"></i>
+    Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan, Marouane Kessentini
+    <br>
+    <i class="fa-solid fa-location-dot"></i> Mining Software Engineering (MSR 2025)
+  </span>
 
-    <div style="margin-top:8px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-      <i class="fa-solid fa-book"></i>
-      <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
+  <div style="margin-top:8px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+    <i class="fa-solid fa-book"></i>
+    <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
 
-      <i class="fa-solid fa-quote-left"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('citation-2022-2', 'abstract-2022-2')">Citation</button>
+    <i class="fa-solid fa-quote-left"></i>
+    <button class="btn btn--success btn--small" onclick="slideToggle('citation-2022-2', 'abstract-2022-2')">Citation</button>
 
-      <i class="fa-solid fa-paperclip"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2022-2', 'citation-2022-2')">Abstract</button>
-    </div>
+    <i class="fa-solid fa-paperclip"></i>
+    <button class="btn btn--success btn--small" onclick="slideToggle('abstract-2022-2', 'citation-2022-2')">Abstract</button>
   </div>
+</div>
 
-  <div class="alert alert-success" role="alert" id="citation-2022-2" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
+<div id="citation-2022-2" style="padding: 15px; background:#e0e0e0; color:#333; border:1px solid #ccc; border-radius:5px; margin:15px 0; font-size:16px; max-width:700px; overflow:hidden; max-height:0; transition:max-height 0.5s ease-out;">
 @inproceedings{ghammam2025build,
 <br>
   title={Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems},
@@ -59,7 +59,12 @@ function toggleText(textIdToShow, textIdToHide) {
   organization={IEEE}
   <br>
 }
-  </div>
+</div>
+
+<div id="abstract-2022-2" style="padding: 15px; background:#e0e0e0; color:#333; border:1px solid #ccc; border-radius:5px; margin:15px 0; font-size:16px; max-width:700px; overflow:hidden; max-height:0; transition:max-height 0.5s ease-out;">
+In modern software engineering, build systems play the crucial role...
+</div>
+
 
 
 ### 2021
@@ -676,3 +681,27 @@ bibsource    = {dblp computer science bibliography, https://dblp.org}
 Internet of Things (IoT) is widely present nowadays, from businesses to connected houses, and more. IoT is considered a part of the Internet of the future and will comprise billions of intelligent communication. These devices transmit data from sensors to entities like servers to perform suitable responses. The problem of securing these data from cyberattacks increases due to the sensitive information it contains. In addition, studies have shown that most of the time data transiting in IoT devices does not apply encrypted communication. Thus, anyone has the ability to listen to or modify the information. Encrypting communications seems mandatory to secure networks and data transiting from sensors to servers. In this paper, we propose an approach to secure the transmission and the storage of data in IoT using Elliptic Curve Cryptography (ECC). The proposed method offers a high level of security at a reasonable computational cost. Indeed, we present an adequate architecture that ensures the use of a state-of-the-art cryptography algorithm to encrypt sensitive data in IoT.
       </div>
    </div>
+
+
+
+<script>
+function slideToggle(elementIdToShow, elementIdToHide) {
+  const showEl = document.getElementById(elementIdToShow);
+  const hideEl = document.getElementById(elementIdToHide);
+
+  // Hide the other box immediately
+  hideEl.style.maxHeight = null;
+  hideEl.style.overflow = "hidden";
+
+  if (showEl.style.maxHeight) {
+    // Already open → close it
+    showEl.style.maxHeight = null;
+    showEl.style.overflow = "hidden";
+  } else {
+    // Open smoothly
+    showEl.style.display = "block";
+    showEl.style.overflow = "hidden";
+    showEl.style.maxHeight = showEl.scrollHeight + "px";
+  }
+}
+</script>
