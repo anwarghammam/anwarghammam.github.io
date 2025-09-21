@@ -82,14 +82,14 @@ In modern software engineering, build systems play the crucial role of facilitat
       <a class="btn btn--info btn--small" target="_blank" href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/198681/3672461.pdf?sequence=1">Pre-print</a>
 
       <i class="fa-solid fa-quote-left"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('citation-2025', 'abstract-2025')">Citation</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('citation-2024', 'abstract-2024')">Citation</button>
 
       <i class="fa-solid fa-paperclip"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2025', 'citation-2025')">Abstract</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2024', 'citation-2024')">Abstract</button>
     </div>
   </div>
 
-  <div class="alert alert-success" role="alert" id="citation-2025" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
+  <div class="alert alert-success" role="alert" id="citation-2024" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
 @article{ghammam2024efficient,
 <br>
   title={Efficient management of containers for software defined vehicles},
@@ -111,7 +111,7 @@ In modern software engineering, build systems play the crucial role of facilitat
 }
   </div>
 
-<div class="alert alert-warning" role="alert" id="abstract-2025" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
+<div class="alert alert-warning" role="alert" id="abstract-2024" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
 Containerization technology, such as Docker, is gaining in popularity in newly established software-defined
 vehicle architectures (SDVA). However, executing those containers can quickly become computationally
 expensive in constrained environments, given the limited CPU, memory, and energy resources in the Electric
@@ -150,14 +150,14 @@ manage software containers in smart vehicles, considering constraints and priori
       <a class="btn btn--info btn--small" target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10795000">Pre-print</a>
 
       <i class="fa-solid fa-quote-left"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('citation-2025', 'abstract-2025')">Citation</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('citation-2023', 'abstract-2023')">Citation</button>
 
       <i class="fa-solid fa-paperclip"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2025', 'citation-2025')">Abstract</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2023', 'citation-2023')">Abstract</button>
     </div>
   </div>
 
-  <div class="alert alert-success" role="alert" id="citation-2025" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
+  <div class="alert alert-success" role="alert" id="citation-2023" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
 @inproceedings{ivers2024mind,
 <br>
   title={Mind the gap: The disconnect between refactoring criteria used in industry and refactoring recommendation tools},
@@ -176,7 +176,7 @@ manage software containers in smart vehicles, considering constraints and priori
 }
   </div>
 
-<div class="alert alert-warning" role="alert" id="abstract-2025" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
+<div class="alert alert-warning" role="alert" id="abstract-2023" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
 Refactoring is a widely adopted practice that keeps code healthy and provides well known benefits like improving developer productivity. Developers routinely make decisions about how to refactor code (which specific refactoring changes to make), but the criteria that guide these decisions is not well studied. We conducted a multi-method study to understand the diversity of criteria that developers use in deciding what refactoring changes to make, the relative importance of different criteria, and the extent to which refactoring recommendation tools incorporate these criteria in their recommendation approaches. Our findings demonstrate that developers in industry situationally employ more than a dozen criteria when making refactoring decisions. However, no recommendation tool supports even half of those criteria and most criteria are supported by only a few tools. While research in refactoring recommendations tools is ripe, lack of support for criteria developers care about leaves industry without the kind of recommendation tools that they need. In this paper, we summarize findings from industry interviews, an industry survey, and an analysis of refactoring recommendation tools. We highlight gaps in refactoring recommendation tools that researchers and tool vendors should consider focusing on for successful practical application of refactoring recommendation tools at scale.
 </div>
 
@@ -196,10 +196,10 @@ Refactoring is a widely adopted practice that keeps code healthy and provides we
       <a class="btn btn--info btn--small" target="_blank" href="https://wajdialjedaani.com/publication/papers/paper44.pdf">Pre-print</a>
 
       <i class="fa-solid fa-quote-left"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('citation-2025', 'abstract-2025')">Citation</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('citation-2022', 'abstract-2022')">Citation</button>
 
       <i class="fa-solid fa-paperclip"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2025', 'citation-2025')">Abstract</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2022', 'citation-2022')">Abstract</button>
     </div>
   </div>
 
@@ -242,14 +242,14 @@ via a survey. Our findings provide insight into the potential of gamification to
       <a class="btn btn--info btn--small" target="_blank" href="https://par.nsf.gov/servlets/purl/10450311#page=1.00&gsr=0">Pre-print</a>
 
       <i class="fa-solid fa-quote-left"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('citation-2025', 'abstract-2025')">Citation</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('citation-2021', 'abstract-2021')">Citation</button>
 
       <i class="fa-solid fa-paperclip"></i>
-      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2025', 'citation-2025')">Abstract</button>
+      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2021', 'citation-2021')">Abstract</button>
     </div>
   </div>
 
-  <div class="alert alert-success" role="alert" id="citation-2025" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
+  <div class="alert alert-success" role="alert" id="citation-2021" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
 @article{ghammam2023dynamic,
 <br>
   title={Dynamic software containers workload balancing via many-objective search},
@@ -272,6 +272,6 @@ via a survey. Our findings provide insight into the potential of gamification to
 }
   </div>
 
-<div class="alert alert-warning" role="alert" id="abstract-2025" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
+<div class="alert alert-warning" role="alert" id="abstract-2021" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
 Software containers are becoming the new state of the art in the industry as they are extensively used to deploy systems. Indeed, the use of containers enables better modularity, reusability, and portability compared to other technologies. As the complexity of software systems is dramatically increasing, it is critical to enable optimal usage of the needed resources to execute them such as memory and CPU. Thus, different scheduling strategies are proposed to select the most suitable nodes to execute a set of containers. For instance, the default strategy in the Docker Swarm kit scheduling framework is based on an equal distribution of the containers between nodes independent of their sizes and consumed resources. However, balancing the containers’ workload is a complex problem due to the conflicting objectives of minimizing the number of selected nodes, minimizing the number of containers per node, the number of changes compared to the original schedule, and the coupling between containers allocated to different nodes. To deal with those conflicting scheduling objectives, we propose a scheduler based on a many-objective optimization approach for scheduling the execution of containers between multiple nodes. The proposed approach aims at finding the best allocation for containers in nodes that leads to efficient utilization of resources. To evaluate our approach, we compared the performance of multiple many and multi-objective techniques based on NSGA-II, NSGA-III, and IBEA algorithms using 48 Docker-related systems and the results show that NSGA-III outperforms the other algorithms in quality attributes as well as in CPU, Memory and Network usage.
 </div>
