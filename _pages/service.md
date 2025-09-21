@@ -4,30 +4,24 @@ title: "Service"
 classes: "wide"
 ---
 
-## Program Committee Member
+## Conferences Program Committee Member
 
-- IEEE Transactions on Network and Service Management, 2025  
-- Empirical Software Engineering (EMSE), 2025  
-- PeerJ Computer Science, 2025  
-- IEEE International Conference on Mining Software Repositories (MSR), 2025  
-- IEEE International Conference on Software Security and Reliability [(QRS) 2024](https://qrs24.techconf.org/committee/program)
+- Committee Member in SIGCSE TS track 2026 
+- Committee Member in SRC MODELS track 2025
+- Committee Member in  the International Conference on Automated Software Engineering (ASE) NIER track 2025
+- Committee Member in SCAM research track 2025 
+- Committe Member in the International Conference on Service-Oriented Computing (ISCOS) 2024
+- Committe Member in the ACM Transactions on Computing Education (TOCE) 2025
+- Committe Member in the International Conference on Cooperative Infromation Systems (CoopIS-ERA) track 2025
 
-## External Reviewer
+## Journals Program Committee Member
+- Committee Member in Frontiers in Computer Science Journal
+- Committee Member in Soft Computing (SOCO) Journal
+- Committe Member in the ACM Transactions on Computing Education (TOCE) Journal
+## Conferences Organizing Committee Member
 
-- 28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES), 2024  
-- IEEE International Conference on Software Security and Reliability (QRS), 2021–2023  
-- International Conference on Software Engineering (ICSE), 2020
+- MODELS 2025: Virtualization Chair
+- ASE 2022: Web Co-Chair
 
-## Conferences Volunteering and Organizational Experience
 
-- Journée Cyberdéfense Desjardins at the University of Quebec, 2024  
-- International Conference on Software Engineering (ICSE), 2019, 2022  
-- Software Engineering for Machine Learning Applications (SEMLA), 2018–2020
 
-## Press
-
-- *Serverless Computing and Machine Learning*, interview with Lucy Smith from Aihub, 26 March 2024
-
-## Invited Talks
-
-- *Tech World 2025* – Big Data, Computer Science, and Information Technologies
