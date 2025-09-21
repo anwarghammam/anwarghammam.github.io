@@ -22,28 +22,28 @@ function toggleText(textIdToShow, textIdToHide) {
 
 ### 2025
 - **Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**
+  <div style="margin-top:5px;">
 
-<div style="margin-top:5px;">
-  <span style="font-size:14px;">
-    <i class="fa-solid fa-people-line"></i>
-    Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan, Marouane Kessentini
-    <br>
-    <i class="fa-solid fa-location-dot"></i> Mining Software Engineering (MSR 2025)
-  </span>
+    <span style="font-size:14px;">
+      <i class="fa-solid fa-people-line"></i>
+      Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan, Marouane Kessentini
+      <br>
+      <i class="fa-solid fa-location-dot"></i> Mining Software Engineering (MSR 2025)
+    </span>
 
-  <div style="margin-top:8px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-    <i class="fa-solid fa-book"></i>
-    <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
+    <div style="margin-top:8px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+      <i class="fa-solid fa-book"></i>
+      <a class="btn btn--info btn--small" target="_blank" href="https://arxiv.org/pdf/2504.01907">Pre-print</a>
 
-    <i class="fa-solid fa-quote-left"></i>
-    <button class="btn btn--success btn--small" onclick="slideToggle('citation-2022-2', 'abstract-2022-2')">Citation</button>
+      <i class="fa-solid fa-quote-left"></i>
+      <button class="btn btn--success btn--small" onclick="toggleText('citation-2022-2', 'abstract-2022-2')">Citation</button>
 
-    <i class="fa-solid fa-paperclip"></i>
-    <button class="btn btn--success btn--small" onclick="slideToggle('abstract-2022-2', 'citation-2022-2')">Abstract</button>
+      <i class="fa-solid fa-paperclip"></i>
+      <button class="btn btn--success btn--small" onclick="toggleText('abstract-2022-2', 'citation-2022-2')">Abstract</button>
+    </div>
   </div>
-</div>
 
-<div id="citation-2022-2" style="padding: 15px; background:#e0e0e0; color:#333; border:1px solid #ccc; border-radius:5px; margin:15px 0; font-size:16px; max-width:700px; overflow:hidden; max-height:0; transition:max-height 0.5s ease-out;">
+  <div class="alert alert-success" role="alert" id="citation-2022-2" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
 @inproceedings{ghammam2025build,
 <br>
   title={Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems},
@@ -59,10 +59,10 @@ function toggleText(textIdToShow, textIdToHide) {
   organization={IEEE}
   <br>
 }
-</div>
+  </div>
 
 <div id="abstract-2022-2" style="padding: 15px; background:#e0e0e0; color:#333; border:1px solid #ccc; border-radius:5px; margin:15px 0; font-size:16px; max-width:700px; overflow:hidden; max-height:0; transition:max-height 0.5s ease-out;">
-In modern software engineering, build systems play the crucial role...
+In modern software engineering, build systems play the crucial role of facilitating the conversion of source code into software artifacts. Recent research has explored high-level causes of build failures, but has largely overlooked the structural properties of build files. Akin to source code, build systems face technical debt challenges that hinder maintenance and optimization. While refactoring is often seen as a key tool for addressing technical debt in source code, there is a significant research gap regarding the specific refactoring changes developers apply to build code and whether these refactorings effectively address technical debt.In this paper, we address this gap by examining refactorings applied to build scripts in open-source projects, covering the widely used build systems of Gradle, Ant, and Maven. Additionally, we investigate whether these refactorings are used to tackle technical debts in build systems. Our analysis was conducted on 725 examined build-file-related commits. We identified 24 build-related refactorings, which we divided into 6 main categories. These refactorings are organized into the first empirically derived taxonomy of build system refactorings. Furthermore, we investigate how developers employ these refactoring types to address technical debts via a manual commitanalysis and a developer survey. In this context, we identified 5 technical debts addressed by these refactorings and discussed their correlation with the different refactorings. Finally, we introduce BuildRefMiner, an LLM-powered tool leveraging GPT40 to automate the detection of refactorings within build systems. We evaluated its performance and found that it achieves an F1 score of 0.76 across all build systems.This study will serve as a foundational building block for guiding future research and practice in the maintenance and optimization of build systems. BuildRefMiner and the replication package for this study are available at [1]
 </div>
 
 
