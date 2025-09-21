@@ -1,15 +1,9 @@
 ---
 permalink: /news/
-title: "**Latest News"
+title: "Latest News"
 author_profile: true
 
 ---
-
--
-
-
--
-
 
 
 
