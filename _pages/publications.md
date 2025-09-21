@@ -203,7 +203,7 @@ Refactoring is a widely adopted practice that keeps code healthy and provides we
     </div>
   </div>
 
-  <div class="alert alert-success" role="alert" id="citation-2025" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
+  <div class="alert alert-success" role="alert" id="citation-2022" style="padding: 15px; background-color: #e0e0e0; color: #333; border: 1px solid #ccc; border-radius: 5px; margin: 15px 0; font-size: 16px; max-width: 700px; display: none;">
 @inproceedings{aljedaani2024boring,
 <br>
   title={From boring to boarding: Transforming refactoring education with game-based learning},
@@ -220,10 +220,8 @@ Refactoring is a widely adopted practice that keeps code healthy and provides we
 }
   </div>
 
-<div class="alert alert-warning" role="alert" id="abstract-2025" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
-Software Refactoring, a critical skill in software development, involves reorganizing code without altering its functionality. Despite its importance, many developers find refactoring complex and risky, often hesitating to adopt tools designed to assist in this process. To bridge this gap in this paper, we investigate the impact of gamification on the refactoring process and the usability of existing
-refactoring tools. Our research introduces RefGame, an innovative game-based tool that aims to enhance the learning experience in identifying and applying refactoring techniques. We used RefGame in an exploratory study that involved 322 computer science students. Then, we collected the feedback provided by these students
-via a survey. Our findings provide insight into the potential of gamification to make software refactoring education more accessible and effective, addressing the current challenges in teaching and learning refactoring techniques.
+<div class="alert alert-warning" role="alert" id="abstract-2022" style="padding: 15px !important; background-color: #e0e0e0 !important; color: #333 !important; border: 1px solid #ccc !important; border-radius: 5px !important; margin-bottom: 15px !important; font-size: 16px !important; width: 700px !important; display: none;">
+Software Refactoring, a critical skill in software development, involves reorganizing code without altering its functionality. Despite its importance, many developers find refactoring complex and risky, often hesitating to adopt tools designed to assist in this process. To bridge this gap in this paper, we investigate the impact of gamification on the refactoring process and the usability of existing refactoring tools. Our research introduces RefGame, an innovative game-based tool that aims to enhance the learning experience in identifying and applying refactoring techniques. We used RefGame in an exploratory study that involved 322 computer science students. Then, we collected the feedback provided by these students via a survey. Our findings provide insight into the potential of gamification to make software refactoring education more accessible and effective, addressing the current challenges in teaching and learning refactoring techniques.
 </div>
 
 
