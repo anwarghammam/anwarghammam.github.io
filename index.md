@@ -20,7 +20,7 @@ function toggleText(textIdToShow, textIdToHide) {
 }
 </script>
 
-I am Anwar Ghammam, I am an assistant professor at [University of Michigan-Dearborn](https://umdearborn.edu/), United States, working at the Department of Computer Science and Information. My research focuses on adapting **Artificial Intelligence** in **Software Engineering**, especially software evolution, software quality, and software maintenance.
+I am Anwar Ghammam, I am a Full-time Tenure Track assistant professor at [University of Michigan-Dearborn](https://umdearborn.edu/), United States, working at the Department of Computer Science and Information. My research focuses on adapting **Artificial Intelligence** in **Software Engineering**, especially software evolution, software quality, and software maintenance.
 
 ## Research Interests
 - **Artificial Intelligence for Software Engineering (AI4SE)**
