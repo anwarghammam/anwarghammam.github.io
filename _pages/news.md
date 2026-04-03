@@ -5,10 +5,10 @@ author_profile: true
 
 ---
 ## RID Award Announcement!
-I was awarded the Research & Innovation Development (RID) Grant ($20K) at the University of Michigan–Dearborn (2026), supporting my research on AI-driven software quality and DevOps systems! Thank you UM-Dearborn!
+- I was awarded the Research & Innovation Development (RID) Grant ($20K) at the University of Michigan–Dearborn (2026), supporting my research on AI-driven software quality and DevOps systems! Thank you UM-Dearborn!
 
 ## AI Award Recognition! 
-I received the Empowering Research with AI Award ($1K) (2026) from the AI Institutes at Michigan (AIIM), recognizing my work on advancing AI applications in software engineering! Thank you AIIM!
+- I received the Empowering Research with AI Award ($1K) (2026) from the AI Institutes at Michigan (AIIM), recognizing my work on advancing AI applications in software engineering! Thank you AIIM!
 
 ## ICSE 2026, here we come!
 
