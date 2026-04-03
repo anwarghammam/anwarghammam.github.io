@@ -6,6 +6,7 @@ classes: "wide"
 
 ## Teaching Courses
 
+- <a href="">Introduction to Python</a> <span style="float:right;"> *Winter 2026* </span>
 - <a href="">Software Engineering</a> <span style="float:right;"> *Fall 2025* </span>
 - <a href="">Integrated Computing Systems</a> <span style="float:right;"> *Winter 2024/Fall 2024* </span>
 
