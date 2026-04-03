@@ -5,6 +5,9 @@ classes: "wide"
 ---
 
 ## Conferences Program Committee Member
+
+- Commitee member in SSBSE 2026.
+- Commitee member in AIWare 2026.
 - Shadow Commitee member in the international conference on Software Engineering (ICSE 2026)
 - Junior Committee Member in Mining Software Repositories conference (MSR 2026)
 - Committee Member in SIGCSE TS track 2026 
@@ -16,9 +19,11 @@ classes: "wide"
 - Committe Member in the International Conference on Cooperative Information Systems (CoopIS-ERA) track 2025
 
 ## Journals Program Committee Member
+
 - Committee Member in Frontiers in Computer Science Journal
 - Committee Member in Soft Computing (SOCO) Journal
 - Committe Member in the ACM Transactions on Computing Education (TOCE) Journal
+- 
 ## Conferences Organizing Committee Member
 
 - MODELS 2025: Virtualization Chair
