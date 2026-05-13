@@ -5,7 +5,7 @@ classes: "wide"
 ---
 
 ## Conferences Program Committee Member
-
+- Commitee member in CAIS 2026 Workshop AgenticSE.
 - Commitee member in SSBSE 2026.
 - Commitee member in AIWare 2026.
 - Shadow Commitee member in the international conference on Software Engineering (ICSE 2026)
